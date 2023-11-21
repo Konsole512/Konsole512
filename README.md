@@ -6,16 +6,19 @@
 
 <p>
   Security focused professional with 17 years experience of mixed principal-level security engineering and security leadership. Current focuses are primarily:
-  - Vulnerability Management
-  - Artifical Intelligence
-  - Security Tooling & Special Projects
-  - Automation
+  <ul>
+  <li>- Vulnerability Management</li>
+  <li>- Artifical Intelligence</li>
+  <li>- Security Tooling & Special Projects</li>
+  <li>- Automation</li>
+  </ul>
 </p>
 
 <p>
 <img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/Tech Stack-2185BA?style=for-the-badge">
-<br />
-<img align="left" src="https://skillicons.dev/icons?i=python,rust,powershell,git,aws,azure,bash,bots,github,githubactions,grafana,graphql,linux,mongodb,mysql,nginx,postman,prometheus,sqlite,selenium">
+<ul>
+<li><img align="left" src="https://skillicons.dev/icons?i=python,rust,powershell,git,aws,azure,bash,bots,github,githubactions,grafana,graphql,linux,mongodb,mysql,nginx,postman,prometheus,sqlite,selenium"></li>
+</ul>
 </p>
 
 

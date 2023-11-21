@@ -18,7 +18,7 @@
 </p>
 
 <p>
-<img align="left" src="https://skillicons.dev/icons?i=python,rust,powershell,aws,azure,bash,bots,grafana,graphql,linux,mongodb,mysql,nginx,sqlite,selenium">
+<img align="left" src="https://skillicons.dev/icons?i=python,rust,powershell,aws,azure,bash,githubactions,grafana,graphql,linux,mongodb,mysql,nginx,sqlite,selenium">
 </p>
 
 

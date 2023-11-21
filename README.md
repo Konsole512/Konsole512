@@ -14,7 +14,7 @@
 
 <p>
 <img align="left" style="margin-right:1rem;margin-top:0.8rem;" src="https://img.shields.io/badge/Tech Stack-2185BA?style=for-the-badge">
-##
+<br />
 <img align="left" src="https://skillicons.dev/icons?i=python,rust,powershell,git,aws,azure,bash,bots,github,githubactions,grafana,graphql,linux,mongodb,mysql,nginx,postman,prometheus,sqlite,selenium">
 </p>
 

@@ -5,7 +5,7 @@
 <img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=Konsole512&hide=stars&show_icons=true&card_width=250&theme=city_lights">
 
 <p>
-  Security focused professional with 17 years experience of mixed principal-level security engineering and security leadership. Current focuses are primarily:
+  As a seasoned security expert, I bring a wealth of knowledge and experience with 17 years in the field, combining high-level security engineering and leadership roles. My current areas of specialization include::
   <ul>
   <li> Vulnerability Management</li>
   <li> Artifical Intelligence</li>

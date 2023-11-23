@@ -8,9 +8,9 @@
   As a seasoned Austin-based security expert, I bring a wealth of knowledge and experience with 17 years in the field, combining high-level security engineering and leadership roles. My current areas of specialization include::
   <ul>
   <li> Vulnerability Management</li>
-  <li> Artifical Intelligence</li>
+  <li> Artifical Intelligence & Machine Learning</li>
   <li> Security Tooling & Special Projects</li>
-  <li> Automation</li>
+  <li> Process Automation</li>
   </ul>
   Although the bulk of my development work is confidential or tailored for corporate clients, I encourage you to get in touch or keep an eye on my updates. I plan to share smaller-scale projects with the open source community, offering a glimpse into my diverse portfolio and contributions to the field.
 <ul></ul>

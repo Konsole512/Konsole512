@@ -5,7 +5,7 @@
 <img align="right" style="margin-bottom:1rem;" src="https://github-readme-stats.vercel.app/api?username=Konsole512&hide=stars&show_icons=true&card_width=250&theme=city_lights">
 
 <p>
-  As a seasoned Austin-based security expert, I bring a wealth of knowledge and experience with 17 years in the field, combining high-level security engineering and leadership roles. My current areas of specialization include::
+  As a seasoned Austin-based security expert, I bring a wealth of knowledge and experience with 17 years in the field, combining high-level security engineering and leadership roles. My current areas of specialization include:
   <ul>
   <li> Vulnerability Management</li>
   <li> Artifical Intelligence & Machine Learning</li>
@@ -14,7 +14,7 @@
   </ul>
   Although the bulk of my development work is confidential or tailored for corporate clients, I encourage you to get in touch or keep an eye on my updates. I plan to share smaller-scale projects with the open source community, offering a glimpse into my diverse portfolio and contributions to the field.
 <ul></ul>
-<ul>Anonymous Email: sploit.this@gmail.com</ul>
+<ul>Contact Email: sploit.this@gmail.com</ul>
 </p>
 
 <p>

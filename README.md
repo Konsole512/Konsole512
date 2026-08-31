@@ -14,7 +14,6 @@
   </ul>
   Although the bulk of my development work is confidential or tailored for corporate clients, I encourage you to get in touch or keep an eye on my updates. I plan to share smaller-scale projects with the open source community.
 <ul></ul>
-<ul>Contact Email: sploit.this@gmail.com</ul>
 </p>
 
 <p>
